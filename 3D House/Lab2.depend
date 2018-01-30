@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1508592761 source:c:\users\user\desktop\1307013\lab2\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	"horse.h"
+	"operation.h"
+	"house.h"
+	<bits/stdc++.h>
+
+1426328128 d:\4th year 2nd semester\cse 4208 _2017\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426328128 d:\4th year 2nd semester\cse 4208 _2017\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1508585601 c:\users\user\desktop\1307013\lab2\horse.h
+	"shape.h"
+
+1508584767 c:\users\user\desktop\1307013\lab2\shape.h
+	<bits/stdc++.h>
+	<windows.h>
+	<GL/glut.h>
+
+1508486124 c:\users\user\desktop\1307013\lab2\operation.h
+
+1508498872 c:\users\user\desktop\1307013\lab2\table.h
+	"shape.h"
+
+1508505914 c:\users\user\desktop\1307013\lab2\house.h
+
+1508657743 source:c:\users\user\desktop\lab2\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	"horse.h"
+	"operation.h"
+	"house.h"
+	<bits/stdc++.h>
+
+1508585601 c:\users\user\desktop\lab2\horse.h
+	"shape.h"
+
+1508640965 c:\users\user\desktop\lab2\shape.h
+	<bits/stdc++.h>
+	<windows.h>
+	<GL/glut.h>
+
+1508486124 c:\users\user\desktop\lab2\operation.h
+
+1508617963 c:\users\user\desktop\lab2\house.h
+
+1509861646 source:c:\users\nur137\desktop\lab2\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	"horse.h"
+	"operation.h"
+	"house.h"
+	"color.h"
+	<bits/stdc++.h>
+
+1509861201 c:\users\nur137\desktop\lab2\horse.h
+	"shape.h"
+	"color.h"
+
+1508640966 c:\users\nur137\desktop\lab2\shape.h
+	<bits/stdc++.h>
+	<windows.h>
+	<GL/glut.h>
+
+1508486126 c:\users\nur137\desktop\lab2\operation.h
+
+1508617964 c:\users\nur137\desktop\lab2\house.h
+
+1509860838 c:\users\nur137\desktop\lab2\color.h
+
+1509873391 source:c:\users\nur137\desktop\lab3\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	"horse.h"
+	"operation.h"
+	"house.h"
+	"color.h"
+	<bits/stdc++.h>
+
+1509861201 c:\users\nur137\desktop\lab3\horse.h
+	"shape.h"
+	"color.h"
+
+1509869880 c:\users\nur137\desktop\lab3\shape.h
+	<bits/stdc++.h>
+	<windows.h>
+	<GL/glut.h>
+
+1509860838 c:\users\nur137\desktop\lab3\color.h
+
+1508486126 c:\users\nur137\desktop\lab3\operation.h
+
+1508617964 c:\users\nur137\desktop\lab3\house.h
+
+1514133084 source:d:\study materails\4th year-2nd term\cse-4208 lab\graphics code from nur\nur3\lab3\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	"horse.h"
+	"operation.h"
+	"house.h"
+	"color.h"
+	<bits/stdc++.h>
+
+1514133076 d:\study materails\4th year-2nd term\cse-4208 lab\graphics code from nur\nur3\lab3\horse.h
+	"shape.h"
+	"color.h"
+
+1514133086 d:\study materails\4th year-2nd term\cse-4208 lab\graphics code from nur\nur3\lab3\shape.h
+	<bits/stdc++.h>
+	<windows.h>
+	<GL/glut.h>
+
+1514133076 d:\study materails\4th year-2nd term\cse-4208 lab\graphics code from nur\nur3\lab3\color.h
+
+1514133084 d:\study materails\4th year-2nd term\cse-4208 lab\graphics code from nur\nur3\lab3\operation.h
+
+1514133076 d:\study materails\4th year-2nd term\cse-4208 lab\graphics code from nur\nur3\lab3\house.h
+
